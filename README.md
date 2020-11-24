@@ -1,0 +1,1 @@
+# vscode-swagger-api-snippets
